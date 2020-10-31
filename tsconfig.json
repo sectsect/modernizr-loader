@@ -1,0 +1,17 @@
+{
+  "extends": "@spotify/tsconfig",
+  "include": ["src"],
+  "exclude": ["node_modules", "**/__tests__/*"],
+  "types": ["@types/node"],
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "declaration": true,
+    "outDir": "./dist",
+    "isolatedModules": false,
+    "noEmit": false,
+    "noImplicitThis": false,
+    "sourceMap": false,
+    "esModuleInterop": true
+  }
+}
