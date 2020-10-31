@@ -1,6 +1,8 @@
 # @sect/modernizr-loader 
 
-[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![npm version](https://badge.fury.io/js/%40sect%2Fmodernizr-loader.svg)](https://badge.fury.io/js/%40sect%2Fmodernizr-loader) [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+
+[![NPM](https://nodei.co/npm/@sect/modernizr-loader.png)](https://nodei.co/npm/@sect/modernizr-loader/)
 
 Get your Modernizr build bundled with webpack.  
 This Repos forked from [peerigon/modernizr-loader](https://github.com/peerigon/modernizr-loader).
