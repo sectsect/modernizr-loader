@@ -34,6 +34,9 @@
   },
   "homepage": "https://github.com/sectsect/modernizr-loader#readme",
   "browserslist": "> 1%, last 1 versions",
+  "peerDependencies": {
+    "modernizr": "^3.11.3"
+  },
   "devDependencies": {
     "@spotify/prettier-config": "^9.0.0",
     "@spotify/tsconfig": "^9.0.0",
