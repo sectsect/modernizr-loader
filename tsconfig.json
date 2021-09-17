@@ -1,6 +1,5 @@
 {
   "extends": "@spotify/tsconfig",
-  "include": ["src"],
   "exclude": ["node_modules", "**/__tests__/*"],
   "types": ["@types/node"],
   "compilerOptions": {
@@ -13,5 +12,13 @@
     "noImplicitThis": false,
     "sourceMap": false,
     "esModuleInterop": true
-  }
+  },
+  "include": [
+    "src/**/*",
+    ".eslintrc.js",
+    "webpack.config.js",
+    "babel.config.js",
+    "stylelint.config.js",
+    "prettier.config.js"
+  ],
 }
