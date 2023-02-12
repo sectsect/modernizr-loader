@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.4](https://github.com/sectsect/modernizr-loader/tree/v1.0.4) (2023-02-12)
+
+[Full Changelog](https://github.com/sectsect/modernizr-loader/compare/v1.0.3...v1.0.4)
+
 ## [v1.0.3](https://github.com/sectsect/modernizr-loader/tree/v1.0.3) (2022-10-24)
 
 [Full Changelog](https://github.com/sectsect/modernizr-loader/compare/v1.0.2...v1.0.3)
